@@ -1,0 +1,29 @@
+{
+    "parameterSets": {
+        "Alano simple": {
+            "bar_d": "8",
+            "bar_facets": "8",
+            "bend_d": "38",
+            "height": "140",
+            "hook_d": "58",
+            "hook_h": "108",
+            "length": "416",
+            "part": "all",
+            "pin_buffer": "5",
+            "tolerance": "0.2"
+        },
+        "Alano simple test 2": {
+            "bar_d": "7",
+            "bar_facets": "8",
+            "bend_d": "38",
+            "height": "140",
+            "hook_d": "58",
+            "hook_h": "108",
+            "length": "416",
+            "part": "side",
+            "pin_buffer": "5",
+            "tolerance": "0.2"
+        }
+    },
+    "fileFormatVersion": "1"
+}
